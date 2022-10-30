@@ -15,4 +15,4 @@ The files `rkhs_functions.py` and `training_functions.py` are used to define and
 * `helmholtz/helmholtz.ipynb` learns the Green's function and bias term of the Helmholtz equation and studies the sensitivity of these estimators to samples, measurements, and noise which is used to generate Figure 3.
 * `schrodinger/schrodinger.ipynb` learns the Green's function of the Schrödinger equations from boundary condition to solution which reproduces Figures 4 & 8.
 * `fokker_planck/fokker_planck.ipynb` is used to learn the Green's function of the Fokker-Planck equation from initial condition to solution which reproduces Figures 5 & 9.
-* * `heateq/heateq.ipynb` uses time-invariance and time-causal physical constraints to learn the Green's function of the heat equation from forcing to solution. This is used to generate Figures 6 & 10 of the paper.
+* `heateq/heateq.ipynb` uses time-invariance and time-causal physical constraints to learn the Green's function of the heat equation from forcing to solution. This is used to generate Figures 6 & 10 of the paper.
